@@ -2,7 +2,7 @@
 
 * Server side rendered Styled Components with NextJS
 
-* Full tutorial published [medium.com](https://medium.com/@koalamango/server-side-rendered-styled-components-with-nextjs-1db1353e915e)
+* Full tutorial published [medium.com](https://medium.com/@koalamango/server-side-rendering-styled-components-with-nextjs-1db1353e915e)
 
 ### Getting started
 
